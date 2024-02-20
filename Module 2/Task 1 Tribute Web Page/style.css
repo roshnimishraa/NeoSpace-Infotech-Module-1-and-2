@@ -1,0 +1,17 @@
+
+
+body {
+  background-color: #a3d5d3;
+  font-family : Times New Roman;
+}
+
+#gandhi_image{
+  width: 500px;
+  margin-bottom : 30px;
+
+}
+figcaption{
+  margin-bottom : 25px;
+  align-items: center;
+  justify-content: center;
+}
